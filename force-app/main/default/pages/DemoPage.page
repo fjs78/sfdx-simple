@@ -1,7 +1,7 @@
 <apex:page standardController="Contact" extensions="DemoController">
   <!-- Page Header -->
   <apex:sectionHeader title="Contact Edit" subtitle="New SFDX Demo Member" />
-  <apex:image value="http://bit.ly/17iLknp" styleClass="logo" />
+  <apex:image value="http://bit.ly/2xacZXJ" styleClass="logo" />
 
   <!-- Begin Form -->
   <apex:form >
